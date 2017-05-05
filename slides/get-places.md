@@ -1,1 +1,1 @@
-# Get Places <!-- .element class="overlay-text fragment" -->
+# Get Places <!-- .element class="overlay-text" -->
