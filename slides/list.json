@@ -56,19 +56,7 @@
     },
     {
         "attr": {
-            "data-background": "images/669844main_LDCM_still_Gulf_Coast_side_view_1280x720.jpg"
-        }
-    },
-    {
-        "attr": {
-            "data-background": "images/sat_interp_high_res.jpg"
-        }
-    },
-    {
-        "attr": {
-            "data-background": "images/500-si_hiw_gps_fa_la2534dc_0.jpg",
-            "data-background-size": "auto 100%",
-            "data-background-color": "#000"
+            "data-background": "http://upload.wikimedia.org/wikipedia/commons/8/8d/GPS_Satellite_NASA_art-iif.jpg"
         }
     },
     {
@@ -83,19 +71,7 @@
     },
     {
         "attr": {
-            "data-background": "images/LiDAR-Escaneo-Ejemplo.jpg"
-        }
-    },
-    {
-        "attr": {
-            "data-background": "images/0c7a652.jpg"
-        }
-    },
-    {
-        "attr": {
-            "data-background": "images/laser_technologies_totalsight_denver_1200x399-100K.jpg",
-            "data-background-size": "100%",
-            "data-background-color": "#000"
+            "data-background": "http://www.mobile-mapping.be/Images/Uploaded/mobile%20mapping%20van%202_Large.jpg"
         }
     },
     "gis.md",
@@ -104,6 +80,11 @@
             "data-background": "images/gis-system.jpg",
             "data-background-size": "740px",
             "data-background-color": "#fff"
+        }
+    },
+    {
+        "attr": {
+            "data-background": "http://upload.wikimedia.org/wikipedia/commons/a/a1/Rusty_tools.JPG"
         }
     },
     {
@@ -120,7 +101,6 @@
         }
     },
     "cool-maps.md",
-    "more-cool-maps.md",
     "what-do-i-do.md",
     {
         "attr": {
@@ -139,12 +119,7 @@
     },
     {
         "attr": {
-            "data-background": "images/20160618102315-Travelentrepreneurs.jpeg"
-        }
-    },
-    {
-        "attr": {
-            "data-background": "images/0TT6m.jpg"
+            "data-background": "https://c3.staticflickr.com/3/2841/11512594484_6ab7131cc8_b.jpg"
         }
     },
     {
@@ -152,44 +127,15 @@
             "data-background": "images/desk-toys.jpg"
         }
     },
-    {
-        "attr": {
-            "data-background": "images/startup-photos.jpg"
-        }
-    },
     "skills.md",
     {
-        "filename": "math-english.md",
         "attr": {
-            "data-background": "images/01.CustomJSBefore.png",
-            "data-background-size": "935px",
-            "data-background-color": "#272823"
+            "data-background": "images/programming_800.jpg"
         }
     },
     {
-        "filename": "art-design.md",
         "attr": {
             "data-background": "images/uscx-large.jpg"
-        }
-    },
-    {
-        "filename": "speak-teach.md",
-        "attr": {
-            "data-background": "images/C6Rg7JqU0AEjtqb.jpg"
-        }
-    },
-    {
-        "filename": "teamwork.md",
-        "attr": {
-            "data-background": "images/program-page-copa.jpg"
-        }
-    },
-    {
-        "filename": "hour-of-code.md",
-        "attr": {
-            "data-background": "images/hour-of-code-1200x-1.jpg",
-            "data-background-size": "100%",
-            "data-background-color": "#000"
         }
     },
     {
@@ -198,6 +144,6 @@
             "data-background": "images/mapping-boy.jpg"
         }
     },
-    "johnson-family-history.md",
+    "mt-baldy-map.md",
     "thank-you.md"
 ]

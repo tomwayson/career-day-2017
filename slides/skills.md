@@ -1,7 +1,7 @@
-## So you want to be a programmer...
+## What to Study
 
-<small>(good choice!)</small>
-
-What should you study?
-
-<p class="fragment">...besides Computer Lab</p>
+- Math... `1 + 1 = 2`
+- English... `if (icon.color === 'blue')`
+- Computer Lab
+- Art, design <!-- .element class="fragment" -->
+- Communication, public speaking <!-- .element class="fragment" -->
