@@ -1,1 +1,1 @@
-# Find Places <!-- .element class="overlay-text fragment" -->
+# Find Places <!-- .element class="overlay-text" -->

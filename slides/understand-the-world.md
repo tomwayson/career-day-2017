@@ -1,1 +1,1 @@
-# Understand The World Around Them <!-- .element class="overlay-text fragment" -->
+# Understand The World Around Them <!-- .element class="overlay-text" -->
